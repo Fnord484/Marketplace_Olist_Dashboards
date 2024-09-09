@@ -130,4 +130,4 @@ Diante do contexto fornecido no site Kaggle e o Data Schema, foi proposta a cons
 ## 6. Próximos Passos
 1. Automatização do dashboard após novo recebimento de dados;
 2. Criar novos filtros e visualizações após novo feedback;
-2. Realizar uma análise diagnóstica para estudo dos insights sugeridos no item 5 e outras solicitações da equipe de RH.
+2. Realizar uma análise diagnóstica para estudo dos insights sugeridos no item 5.
